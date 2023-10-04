@@ -25,5 +25,4 @@ A passionate kernel developer and network engineer from Russia
     <img src="https://www.svgrepo.com/show/452234/java.svg" alt="java" width="40" height="40"/>
     <img src="https://www.svgrepo.com/show/349380/go.svg" alt="go" width="40" height="40"/>
     <img src="https://www.svgrepo.com/show/374021/qml.svg" alt="qt" width="40" height="40"/>
-    <img src="https://hex-rays.com/wp-content/themes/hx2021/dist/img/logo.svg" alt="ida" width="40" height="40"/>
 </p>
