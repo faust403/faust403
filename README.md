@@ -1,0 +1,3 @@
+- 👋 Hi, My name is Vlad. I'm a CS lover and a professinal interpreter
+- 👀 Originally I was a Kernel & C++ developer, but over time my stack has changed and now I'm doing everything regarding blockchain applications and L1 distributed systems
+- 🌏 I enjoy learning languages and everyting in this regard
